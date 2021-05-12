@@ -23,7 +23,6 @@ Main.BackgroundColor3 = Color3.fromRGB(8, 12, 16)
 Main.BorderColor3 = Color3.fromRGB(255, 255, 255)
 Main.Position = UDim2.new(0.419525087, 0, 0.494023919, 0)
 Main.Size = UDim2.new(0, 440, 0, 254)
-Main.Active = true
 Main.Draggable = true
 
 MadebyGust.Name = "Made by Gust"
