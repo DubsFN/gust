@@ -16,7 +16,7 @@ local Car = Instance.new("TextButton")
 --Properties:
 
 GustsGUI.Name = "Gust's GUI"
-GustsGUI.Parent = game.Workspace
+GustsGUI.Parent = game.CoreGui
 
 Main.Name = "Main"
 Main.Parent = GustsGUI
